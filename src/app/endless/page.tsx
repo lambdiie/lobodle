@@ -3,9 +3,6 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <>
-      <Link href="/classic">Classic</Link>
-      <Link href="/endless">Endless</Link>
-    </>
+    <>hey</>
   );
 }
