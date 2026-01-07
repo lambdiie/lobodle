@@ -2,16 +2,6 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 import path from "path";
 
-type Abnormality = {
-  id: string;
-  img?: string;
-  name: string;
-  attackType?: string;
-  riskLevel: string;
-  eBoxes?: number;
-  qliphothCounter?: number;
-};
-
 // Gets the abnormality data from the wiki
 async function getData() {
   const response = await fetch(

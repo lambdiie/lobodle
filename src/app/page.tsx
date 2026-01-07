@@ -1,11 +1,15 @@
-import Image from "next/image";
 import Link from "next/link";
+import Button from "@/components/button";
 
 export default function Home() {
   return (
-    <>
-      <Link href="/classic">Classic</Link>
-      <Link href="/endless">Endless</Link>
-    </>
+    <div>
+      <Link href="/classic">
+        <Button>Classic</Button>
+      </Link>
+      <Link href="/endless">
+        <Button>Endless</Button>
+      </Link>
+    </div>
   );
 }
