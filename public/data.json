@@ -1,7 +1,7 @@
 [
   {
     "id": "0",
-    "img": "/images/thumb/TrainingStandardDummyRabbitPortrait.png/50px-TrainingStandardDummyRabbitPortrait.png?2960b9",
+    "img": "TrainingStandardDummyRabbitPortrait.png",
     "name": "Standard Training-Dummy Rabbit",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "img": "/images/thumb/ScorchedGirlPortrait.png/50px-ScorchedGirlPortrait.png?f4cf12",
+    "img": "ScorchedGirlPortrait.png",
     "name": "Scorched Girl",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -19,7 +19,7 @@
   },
   {
     "id": "3",
-    "img": "/images/thumb/OneSinPortrait.png/50px-OneSinPortrait.png?7ea8c0",
+    "img": "OneSinPortrait.png",
     "name": "One Sin and Hundreds of Good Deeds",
     "attackType": "WHITE",
     "riskLevel": "ZAYIN",
@@ -28,7 +28,7 @@
   },
   {
     "id": "4",
-    "img": "/images/thumb/TheQueenOfHatredPortrait.png/50px-TheQueenOfHatredPortrait.png?9d9408",
+    "img": "TheQueenOfHatredPortrait.png",
     "name": "The Queen of Hatred",
     "attackType": "BLACK",
     "riskLevel": "WAW",
@@ -37,7 +37,7 @@
   },
   {
     "id": "6",
-    "img": "/images/thumb/HappyTeddyBearPortrait.png/50px-HappyTeddyBearPortrait.png?b98e4f",
+    "img": "HappyTeddyBearPortrait.png",
     "name": "Happy Teddy Bear",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -46,7 +46,7 @@
   },
   {
     "id": "8",
-    "img": "/images/thumb/RedShoesPortrait.png/50px-RedShoesPortrait.png?d0df45",
+    "img": "RedShoesPortrait.png",
     "name": "The Red Shoes",
     "attackType": "RED",
     "riskLevel": "HE",
@@ -55,7 +55,7 @@
   },
   {
     "id": "9",
-    "img": "/images/thumb/TheresiaPortrait.png/50px-TheresiaPortrait.png?3d88a4",
+    "img": "TheresiaPortrait.png",
     "name": "Theresia",
     "attackType": "",
     "riskLevel": "TETH",
@@ -63,7 +63,7 @@
   },
   {
     "id": "12",
-    "img": "/images/thumb/OldLadyPortrait.png/50px-OldLadyPortrait.png?3eebf9",
+    "img": "OldLadyPortrait.png",
     "name": "Old Lady",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -72,7 +72,7 @@
   },
   {
     "id": "15",
-    "img": "/images/thumb/NamelessFetusPortrait.png/50px-NamelessFetusPortrait.png?df0462",
+    "img": "NamelessFetusPortrait.png",
     "name": "Nameless Fetus",
     "attackType": "RED",
     "riskLevel": "HE",
@@ -81,7 +81,7 @@
   },
   {
     "id": "18",
-    "img": "/images/thumb/WallGazerPortrait.png/50px-WallGazerPortrait.png?6e4a5c",
+    "img": "WallGazerPortrait.png",
     "name": "The Lady Facing the Wall",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -90,7 +90,7 @@
   },
   {
     "id": "20",
-    "img": "/images/thumb/NothingTherePortrait.png/50px-NothingTherePortrait.png?bcc0dd",
+    "img": "NothingTherePortrait.png",
     "name": "Nothing There",
     "attackType": "RED",
     "riskLevel": "ALEPH",
@@ -99,7 +99,7 @@
   },
   {
     "id": "27",
-    "img": "/images/thumb/1.76MHzPortrait.png/50px-1.76MHzPortrait.png?93dcfc",
+    "img": "1.76MHzPortrait.png",
     "name": "1.76 MHz",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -108,7 +108,7 @@
   },
   {
     "id": "30",
-    "img": "/images/thumb/SingingMachinePortrait.png/50px-SingingMachinePortrait.png?180357",
+    "img": "SingingMachinePortrait.png",
     "name": "Singing Machine",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -117,7 +117,7 @@
   },
   {
     "id": "31",
-    "img": "/images/thumb/TheSilentOrchestraPortrait.png/50px-TheSilentOrchestraPortrait.png?5101b0",
+    "img": "TheSilentOrchestraPortrait.png",
     "name": "The Silent Orchestra",
     "attackType": "WHITE",
     "riskLevel": "ALEPH",
@@ -126,7 +126,7 @@
   },
   {
     "id": "32",
-    "img": "/images/thumb/WarmHeartedWoodsmanPortrait.png/50px-WarmHeartedWoodsmanPortrait.png?3310fc",
+    "img": "WarmHeartedWoodsmanPortrait.png",
     "name": "Warm-hearted Woodsman",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -135,7 +135,7 @@
   },
   {
     "id": "37",
-    "img": "/images/thumb/TheSnowQueenPortrait.png/50px-TheSnowQueenPortrait.png?3a7917",
+    "img": "TheSnowQueenPortrait.png",
     "name": "The Snow Queen",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -144,7 +144,7 @@
   },
   {
     "id": "40",
-    "img": "/images/thumb/BigBirdPortrait.png/50px-BigBirdPortrait.png?e9ad00",
+    "img": "BigBirdPortrait.png",
     "name": "Big Bird",
     "attackType": "BLACK",
     "riskLevel": "WAW",
@@ -153,7 +153,7 @@
   },
   {
     "id": "41",
-    "img": "/images/thumb/LittleHelperPortrait.png/50px-LittleHelperPortrait.png?82236d",
+    "img": "LittleHelperPortrait.png",
     "name": "All-Around Helper",
     "attackType": "RED",
     "riskLevel": "HE",
@@ -162,7 +162,7 @@
   },
   {
     "id": "42",
-    "img": "/images/thumb/SnowWhite%27sApplePortrait.png/50px-SnowWhite%27sApplePortrait.png?be1fb8",
+    "img": "SnowWhite'sApplePortrait.png",
     "name": "Snow White's Apple",
     "attackType": "BLACK",
     "riskLevel": "WAW",
@@ -171,7 +171,7 @@
   },
   {
     "id": "43",
-    "img": "/images/thumb/SpiderBudPortrait.png/50px-SpiderBudPortrait.png?becf60",
+    "img": "SpiderBudPortrait.png",
     "name": "Spider Bud",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -180,7 +180,7 @@
   },
   {
     "id": "44",
-    "img": "/images/thumb/BeautyandtheBeastPortrait.png/50px-BeautyandtheBeastPortrait.png?8f24d7",
+    "img": "BeautyandtheBeastPortrait.png",
     "name": "Beauty and the Beast",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -189,7 +189,7 @@
   },
   {
     "id": "45",
-    "img": "/images/thumb/PlagueDoctorPortrait.png/50px-PlagueDoctorPortrait.png?4f9b25",
+    "img": "PlagueDoctorPortrait.png",
     "name": "Plague Doctor",
     "attackType": "WHITE",
     "riskLevel": "ZAYIN",
@@ -198,7 +198,7 @@
   },
   {
     "id": "46",
-    "img": "/images/thumb/WhiteNightPortrait.png/50px-WhiteNightPortrait.png?d2df4e",
+    "img": "WhiteNightPortrait.png",
     "name": "WhiteNight",
     "attackType": "PALE",
     "riskLevel": "ALEPH",
@@ -207,7 +207,7 @@
   },
   {
     "id": "47",
-    "img": "/images/thumb/Don%27tTouchMePortrait.png/50px-Don%27tTouchMePortrait.png?2d1252",
+    "img": "Don'tTouchMePortrait.png",
     "name": "Don't Touch Me",
     "attackType": "",
     "riskLevel": "ZAYIN",
@@ -216,7 +216,7 @@
   },
   {
     "id": "49",
-    "img": "/images/thumb/RudoltaPortrait.png/50px-RudoltaPortrait.png?c52a9a",
+    "img": "RudoltaPortrait.png",
     "name": "Rudolta of the Sleigh",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -225,7 +225,7 @@
   },
   {
     "id": "50",
-    "img": "/images/thumb/QueenBeePortrait.png/50px-QueenBeePortrait.png?a3731d",
+    "img": "QueenBeePortrait.png",
     "name": "Queen Bee",
     "attackType": "RED",
     "riskLevel": "WAW",
@@ -234,7 +234,7 @@
   },
   {
     "id": "51",
-    "img": "/images/thumb/BloodbathPortrait.png/50px-BloodbathPortrait.png?39f68f",
+    "img": "BloodbathPortrait.png",
     "name": "Bloodbath",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -243,7 +243,7 @@
   },
   {
     "id": "52",
-    "img": "/images/thumb/OpenedCanofWellcheersPortrait.png/50px-OpenedCanofWellcheersPortrait.png?dd5f56",
+    "img": "OpenedCanofWellcheersPortrait.png",
     "name": "Opened Can of WellCheers",
     "attackType": "RED",
     "riskLevel": "ZAYIN",
@@ -252,7 +252,7 @@
   },
   {
     "id": "53",
-    "img": "/images/thumb/AlriunePortrait.png/50px-AlriunePortrait.png?edf417",
+    "img": "AlriunePortrait.png",
     "name": "Alriune",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -261,7 +261,7 @@
   },
   {
     "id": "54",
-    "img": "/images/thumb/ForsakenMurdererPortrait.png/50px-ForsakenMurdererPortrait.png?f3aaa2",
+    "img": "ForsakenMurdererPortrait.png",
     "name": "Forsaken Murderer",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -270,7 +270,7 @@
   },
   {
     "id": "55",
-    "img": "/images/thumb/TheChildofGalaxyPortrait.png/50px-TheChildofGalaxyPortrait.png?e6d826",
+    "img": "TheChildofGalaxyPortrait.png",
     "name": "Child of the Galaxy",
     "attackType": "BLACK",
     "riskLevel": "HE",
@@ -279,7 +279,7 @@
   },
   {
     "id": "56",
-    "img": "/images/thumb/PunishingBirdPortrait.png/50px-PunishingBirdPortrait.png?dd5d48",
+    "img": "PunishingBirdPortrait.png",
     "name": "Punishing Bird",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -288,7 +288,7 @@
   },
   {
     "id": "57",
-    "img": "/images/thumb/LittleRedPortrait.png/50px-LittleRedPortrait.png?f9cf46",
+    "img": "LittleRedPortrait.png",
     "name": "Little Red Riding Hooded Mercenary",
     "attackType": "RED",
     "riskLevel": "WAW",
@@ -297,7 +297,7 @@
   },
   {
     "id": "58",
-    "img": "/images/thumb/BigandMightbeBadWolfPortrait.png/50px-BigandMightbeBadWolfPortrait.png?973f69",
+    "img": "BigandMightbeBadWolfPortrait.png",
     "name": "Big and Will be Bad Wolf",
     "attackType": "RED",
     "riskLevel": "WAW",
@@ -306,7 +306,7 @@
   },
   {
     "id": "60",
-    "img": "/images/thumb/FragmentoftheUniversePortrait.png/50px-FragmentoftheUniversePortrait.png?68a405",
+    "img": "FragmentoftheUniversePortrait.png",
     "name": "Fragment of the Universe",
     "attackType": "BLACK",
     "riskLevel": "TETH",
@@ -315,7 +315,7 @@
   },
   {
     "id": "61",
-    "img": "/images/thumb/CrumblingArmorPortrait.png/50px-CrumblingArmorPortrait.png?c411bd",
+    "img": "CrumblingArmorPortrait.png",
     "name": "Crumbling Armor",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -324,7 +324,7 @@
   },
   {
     "id": "62",
-    "img": "/images/thumb/BirdofJudgementPortrait.png/50px-BirdofJudgementPortrait.png?793437",
+    "img": "BirdofJudgementPortrait.png",
     "name": "Judgement Bird",
     "attackType": "PALE",
     "riskLevel": "WAW",
@@ -333,7 +333,7 @@
   },
   {
     "id": "63",
-    "img": "/images/thumb/ApocalypseBirdPortrait.png/50px-ApocalypseBirdPortrait.png?c512c1",
+    "img": "ApocalypseBirdPortrait.png",
     "name": "Apocalypse Bird",
     "attackType": "BLACK",
     "riskLevel": "ALEPH",
@@ -342,7 +342,7 @@
   },
   {
     "id": "64",
-    "img": "/images/thumb/TheKingofGreedPortrait.png/50px-TheKingofGreedPortrait.png?cf5ba9",
+    "img": "TheKingofGreedPortrait.png",
     "name": "The King of Greed",
     "attackType": "RED",
     "riskLevel": "WAW",
@@ -351,7 +351,7 @@
   },
   {
     "id": "66",
-    "img": "/images/thumb/TheLittlePrincePortrait.png/50px-TheLittlePrincePortrait.png?5f26b5",
+    "img": "TheLittlePrincePortrait.png",
     "name": "The Little Prince",
     "attackType": "BLACK",
     "riskLevel": "WAW",
@@ -360,7 +360,7 @@
   },
   {
     "id": "67",
-    "img": "/images/thumb/LaetitiaPortrait.png/50px-LaetitiaPortrait.png?78f065",
+    "img": "LaetitiaPortrait.png",
     "name": "Laetitia",
     "attackType": "BLACK",
     "riskLevel": "HE",
@@ -369,7 +369,7 @@
   },
   {
     "id": "68",
-    "img": "/images/thumb/FuneraloftheDeadButterfliesPortrait.png/50px-FuneraloftheDeadButterfliesPortrait.png?88c54c",
+    "img": "FuneraloftheDeadButterfliesPortrait.png",
     "name": "The Funeral of the Dead Butterflies",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -378,7 +378,7 @@
   },
   {
     "id": "69",
-    "img": "/images/thumb/DerFreisch%C3%BCtzPortrait.png/50px-DerFreisch%C3%BCtzPortrait.png?a53d14",
+    "img": "DerFreischützPortrait.png",
     "name": "Der Freischütz",
     "attackType": "BLACK",
     "riskLevel": "HE",
@@ -387,7 +387,7 @@
   },
   {
     "id": "70",
-    "img": "/images/thumb/DreamofaBlackSwanPortrait.png/50px-DreamofaBlackSwanPortrait.png?7ce19a",
+    "img": "DreamofaBlackSwanPortrait.png",
     "name": "Dream of a Black Swan",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -396,7 +396,7 @@
   },
   {
     "id": "71",
-    "img": "/images/thumb/TheDreamingCurrentPortrait.png/50px-TheDreamingCurrentPortrait.png?8c1457",
+    "img": "TheDreamingCurrentPortrait.png",
     "name": "The Dreaming Current",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -405,7 +405,7 @@
   },
   {
     "id": "72",
-    "img": "/images/thumb/TheBurrowingHeavenPortrait.png/50px-TheBurrowingHeavenPortrait.png?669217",
+    "img": "TheBurrowingHeavenPortrait.png",
     "name": "The Burrowing Heaven",
     "attackType": "BLACK",
     "riskLevel": "WAW",
@@ -414,7 +414,7 @@
   },
   {
     "id": "73",
-    "img": "/images/thumb/TheKnightofDespairPortrait.png/50px-TheKnightofDespairPortrait.png?46a761",
+    "img": "TheKnightofDespairPortrait.png",
     "name": "The Knight of Despair",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -423,7 +423,7 @@
   },
   {
     "id": "74",
-    "img": "/images/thumb/TheNakedNestPortrait.png/50px-TheNakedNestPortrait.png?aad729",
+    "img": "TheNakedNestPortrait.png",
     "name": "The Naked Nest",
     "attackType": "RED",
     "riskLevel": "WAW",
@@ -432,7 +432,7 @@
   },
   {
     "id": "75",
-    "img": "/images/thumb/TheMountainofSmilingBodiesPortrait.png/50px-TheMountainofSmilingBodiesPortrait.png?ecfc4e",
+    "img": "TheMountainofSmilingBodiesPortrait.png",
     "name": "Mountain of Smiling Bodies",
     "attackType": "BLACK",
     "riskLevel": "ALEPH",
@@ -441,7 +441,7 @@
   },
   {
     "id": "76",
-    "img": "/images/thumb/SchadenfreudePortrait.png/50px-SchadenfreudePortrait.png?5087f6",
+    "img": "SchadenfreudePortrait.png",
     "name": "Schadenfreude",
     "attackType": "RED",
     "riskLevel": "HE",
@@ -450,7 +450,7 @@
   },
   {
     "id": "77",
-    "img": "/images/thumb/TheHeartofAspirationPortrait.png/50px-TheHeartofAspirationPortrait.png?68ae90",
+    "img": "TheHeartofAspirationPortrait.png",
     "name": "The Heart of Aspiration",
     "attackType": "",
     "riskLevel": "TETH",
@@ -458,7 +458,7 @@
   },
   {
     "id": "78",
-    "img": "/images/thumb/NotefromaCrazedResearcherPortrait.png/50px-NotefromaCrazedResearcherPortrait.png?cf243b",
+    "img": "NotefromaCrazedResearcherPortrait.png",
     "name": "Notes from a Crazed Researcher",
     "attackType": "",
     "riskLevel": "HE",
@@ -466,7 +466,7 @@
   },
   {
     "id": "79",
-    "img": "/images/thumb/FleshIdolPortrait.png/50px-FleshIdolPortrait.png?354ab2",
+    "img": "FleshIdolPortrait.png",
     "name": "Flesh Idol",
     "attackType": "",
     "riskLevel": "WAW",
@@ -474,7 +474,7 @@
   },
   {
     "id": "80",
-    "img": "/images/thumb/GiantTreeSapPortrait.png/50px-GiantTreeSapPortrait.png?84389e",
+    "img": "GiantTreeSapPortrait.png",
     "name": "Giant Tree Sap",
     "attackType": "",
     "riskLevel": "HE",
@@ -482,7 +482,7 @@
   },
   {
     "id": "81",
-    "img": "/images/thumb/MirrorofAdjustmentPortrait.png/50px-MirrorofAdjustmentPortrait.png?f5d5a2",
+    "img": "MirrorofAdjustmentPortrait.png",
     "name": "Mirror of Adjustment",
     "attackType": "",
     "riskLevel": "ZAYIN",
@@ -490,7 +490,7 @@
   },
   {
     "id": "82",
-    "img": "/images/thumb/Shelterfromthe27thofMarchPortrait.png/50px-Shelterfromthe27thofMarchPortrait.png?fd0151",
+    "img": "Shelterfromthe27thofMarchPortrait.png",
     "name": "Shelter from the 27th of March",
     "attackType": "",
     "riskLevel": "HE",
@@ -498,7 +498,7 @@
   },
   {
     "id": "83",
-    "img": "/images/thumb/FairyFestivalPortrait.png/50px-FairyFestivalPortrait.png?18117c",
+    "img": "FairyFestivalPortrait.png",
     "name": "Fairy Festival",
     "attackType": "RED",
     "riskLevel": "ZAYIN",
@@ -507,7 +507,7 @@
   },
   {
     "id": "84",
-    "img": "/images/thumb/MeatLanternPortrait.png/50px-MeatLanternPortrait.png?51aa39",
+    "img": "MeatLanternPortrait.png",
     "name": "Meat Lantern",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -516,7 +516,7 @@
   },
   {
     "id": "85",
-    "img": "/images/thumb/WeCanChangeAnythingPortrait.png/50px-WeCanChangeAnythingPortrait.png?e58ce6",
+    "img": "WeCanChangeAnythingPortrait.png",
     "name": "We Can Change Anything",
     "attackType": "",
     "riskLevel": "ZAYIN",
@@ -524,7 +524,7 @@
   },
   {
     "id": "86",
-    "img": "/images/thumb/ExpressTraintoHellPortrait.png/50px-ExpressTraintoHellPortrait.png?151beb",
+    "img": "ExpressTraintoHellPortrait.png",
     "name": "Express Train to Hell",
     "attackType": "",
     "riskLevel": "WAW",
@@ -532,7 +532,7 @@
   },
   {
     "id": "87",
-    "img": "/images/thumb/ScarecrowSearchingforWisdomPortrait.png/50px-ScarecrowSearchingforWisdomPortrait.png?6592d9",
+    "img": "ScarecrowSearchingforWisdomPortrait.png",
     "name": "Scarecrow Searching for Wisdom",
     "attackType": "WHITE",
     "riskLevel": "HE",
@@ -541,7 +541,7 @@
   },
   {
     "id": "88",
-    "img": "/images/thumb/DimensionalRefractionVariantPortrait.png/50px-DimensionalRefractionVariantPortrait.png?d40e16",
+    "img": "DimensionalRefractionVariantPortrait.png",
     "name": "Dimensional Refraction Variant",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -550,7 +550,7 @@
   },
   {
     "id": "89",
-    "img": "/images/thumb/CENSOREDPortrait.png/50px-CENSOREDPortrait.png?d89141",
+    "img": "CENSOREDPortrait.png",
     "name": "CENSORED",
     "attackType": "BLACK",
     "riskLevel": "ALEPH",
@@ -559,7 +559,7 @@
   },
   {
     "id": "90",
-    "img": "/images/thumb/ProphecyoftheSkinPortrait.png/50px-ProphecyoftheSkinPortrait.png?2f83c1",
+    "img": "ProphecyoftheSkinPortrait.png",
     "name": "Skin Prophecy",
     "attackType": "",
     "riskLevel": "TETH",
@@ -567,7 +567,7 @@
   },
   {
     "id": "91",
-    "img": "/images/thumb/PortraitofAnotherWorldPortrait.png/50px-PortraitofAnotherWorldPortrait.png?4032c3",
+    "img": "PortraitofAnotherWorldPortrait.png",
     "name": "Portrait of Another World",
     "attackType": "",
     "riskLevel": "HE",
@@ -575,7 +575,7 @@
   },
   {
     "id": "92",
-    "img": "/images/thumb/ShyLookTodayPortrait.png/50px-ShyLookTodayPortrait.png?b6de6b",
+    "img": "ShyLookTodayPortrait.png",
     "name": "Today's Shy Look",
     "attackType": "BLACK",
     "riskLevel": "TETH",
@@ -584,7 +584,7 @@
   },
   {
     "id": "93",
-    "img": "/images/thumb/BlueStarPortrait.png/50px-BlueStarPortrait.png?aac391",
+    "img": "BlueStarPortrait.png",
     "name": "Blue Star",
     "attackType": "WHITE",
     "riskLevel": "ALEPH",
@@ -593,7 +593,7 @@
   },
   {
     "id": "94",
-    "img": "/images/thumb/YouMustBeHappyPortrait.png/50px-YouMustBeHappyPortrait.png?4885d6",
+    "img": "YouMustBeHappyPortrait.png",
     "name": "You Must Be Happy",
     "attackType": "",
     "riskLevel": "ZAYIN",
@@ -601,7 +601,7 @@
   },
   {
     "id": "95",
-    "img": "/images/thumb/LuminousBraceletPortrait.png/50px-LuminousBraceletPortrait.png?e6b5cd",
+    "img": "LuminousBraceletPortrait.png",
     "name": "Luminous Bracelet",
     "attackType": "",
     "riskLevel": "TETH",
@@ -609,7 +609,7 @@
   },
   {
     "id": "96",
-    "img": "/images/thumb/BehaviorAdjustmentPortrait.png/50px-BehaviorAdjustmentPortrait.png?713447",
+    "img": "BehaviorAdjustmentPortrait.png",
     "name": "Behavior Adjustment",
     "attackType": "",
     "riskLevel": "TETH",
@@ -617,7 +617,7 @@
   },
   {
     "id": "97",
-    "img": "/images/thumb/OldBeliefandPromisePortrait.png/50px-OldBeliefandPromisePortrait.png?88cb1b",
+    "img": "OldBeliefandPromisePortrait.png",
     "name": "Old Faith and Promise",
     "attackType": "",
     "riskLevel": "ZAYIN",
@@ -625,7 +625,7 @@
   },
   {
     "id": "98",
-    "img": "/images/thumb/PorccubusPortrait.png/50px-PorccubusPortrait.png?55c0e8",
+    "img": "PorccubusPortrait.png",
     "name": "Porccubus",
     "attackType": "BLACK",
     "riskLevel": "HE",
@@ -634,7 +634,7 @@
   },
   {
     "id": "99",
-    "img": "/images/thumb/VoidDreamPortrait.png/50px-VoidDreamPortrait.png?3a4354",
+    "img": "VoidDreamPortrait.png",
     "name": "Void Dream",
     "attackType": "BLACK",
     "riskLevel": "TETH",
@@ -643,7 +643,7 @@
   },
   {
     "id": "100",
-    "img": "/images/thumb/GraveofCherryBlossomsPortrait.png/50px-GraveofCherryBlossomsPortrait.png?243976",
+    "img": "GraveofCherryBlossomsPortrait.png",
     "name": "Grave of Cherry Blossoms",
     "attackType": "WHITE",
     "riskLevel": "TETH",
@@ -652,7 +652,7 @@
   },
   {
     "id": "101",
-    "img": "/images/thumb/FieryBirdPortrait.png/50px-FieryBirdPortrait.png?ec5545",
+    "img": "FieryBirdPortrait.png",
     "name": "The Firebird",
     "attackType": "RED",
     "riskLevel": "WAW",
@@ -661,7 +661,7 @@
   },
   {
     "id": "102",
-    "img": "/images/thumb/YinPortrait.png/50px-YinPortrait.png?de7443",
+    "img": "YinPortrait.png",
     "name": "Yin",
     "attackType": "BLACK",
     "riskLevel": "WAW",
@@ -670,7 +670,7 @@
   },
   {
     "id": "103",
-    "img": "/images/thumb/YangPortrait.png/50px-YangPortrait.png?28d184",
+    "img": "YangPortrait.png",
     "name": "Yang",
     "attackType": "",
     "riskLevel": "WAW",
@@ -678,7 +678,7 @@
   },
   {
     "id": "104",
-    "img": "/images/thumb/BackwardClockPortrait.png/50px-BackwardClockPortrait.png?6f7c0b",
+    "img": "BackwardClockPortrait.png",
     "name": "Backward Clock",
     "attackType": "",
     "riskLevel": "WAW",
@@ -686,7 +686,7 @@
   },
   {
     "id": "105",
-    "img": "/images/thumb/LaLunaPortrait.png/50px-LaLunaPortrait.png?d50380",
+    "img": "LaLunaPortrait.png",
     "name": "Il Pianto della Luna",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -695,7 +695,7 @@
   },
   {
     "id": "106",
-    "img": "/images/thumb/ArmyInBlackPortrait.png/50px-ArmyInBlackPortrait.png?fe1add",
+    "img": "ArmyInBlackPortrait.png",
     "name": "Army in Black",
     "attackType": "WHITE",
     "riskLevel": "ZAYIN",
@@ -704,7 +704,7 @@
   },
   {
     "id": "107",
-    "img": "/images/thumb/PpodaePortrait.png/50px-PpodaePortrait.png?f7fbaa",
+    "img": "PpodaePortrait.png",
     "name": "Ppodae",
     "attackType": "RED",
     "riskLevel": "TETH",
@@ -713,7 +713,7 @@
   },
   {
     "id": "108",
-    "img": "/images/thumb/ParasyteTreePortrait.png/50px-ParasyteTreePortrait.png?3c0e84",
+    "img": "ParasyteTreePortrait.png",
     "name": "Parasite Tree",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -722,7 +722,7 @@
   },
   {
     "id": "109",
-    "img": "/images/thumb/MeltingLovePortrait.png/50px-MeltingLovePortrait.png?8fa442",
+    "img": "MeltingLovePortrait.png",
     "name": "Melting Love",
     "attackType": "BLACK",
     "riskLevel": "ALEPH",
@@ -731,7 +731,7 @@
   },
   {
     "id": "110",
-    "img": "/images/thumb/HeroicMonkPortrait.png/50px-HeroicMonkPortrait.png?93fd2f",
+    "img": "HeroicMonkPortrait.png",
     "name": "Clouded Monk",
     "attackType": "WHITE",
     "riskLevel": "WAW",
@@ -740,7 +740,7 @@
   },
   {
     "id": "awe­some!",
-    "img": "/images/thumb/You%27reBaldPortrait.png/50px-You%27reBaldPortrait.png?fddc6f",
+    "img": "You'reBaldPortrait.png",
     "name": "You're Bald...",
     "attackType": "BLACK",
     "riskLevel": "ZAYIN",

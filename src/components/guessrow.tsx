@@ -6,7 +6,7 @@ export default function GuessRow({ abno }: { abno: Abnormality }) {
     <div className="flex gap-4">
       <GuessItem>
         <Image
-          src={abno.img}
+          src={"/abnoPortraits/" + abno.img}
           alt={abno.name}
           fill
           className="object-cover"
