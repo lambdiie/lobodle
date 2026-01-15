@@ -3,10 +3,11 @@ import Link from "next/link";
 
 export default function Logo() {
   return (
-    <Link href="/" className="flex flex-col items-center gap-4 hover:scale-110 transition">
-      <div
-        className="flex gap-4 items-center"
-      >
+    <Link
+      href="/"
+      className="flex flex-col items-center gap-4 hover:scale-110 transition"
+    >
+      <div className="flex gap-4 items-center">
         <Image
           src="/images/logo.webp"
           alt="Logo"

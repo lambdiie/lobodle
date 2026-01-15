@@ -3,7 +3,9 @@ export default function GuessItem({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-    return <div className="relative w-24 h-24 bg-green-600 flex items-center justify-center border-2 border-foreground text-white">
-        {children ?? "X"}
+  return (
+    <div className="relative w-24 h-24 bg-green-600 flex items-center justify-center border-2 border-foreground text-white">
+      {children ?? "X"}
     </div>
+  );
 }

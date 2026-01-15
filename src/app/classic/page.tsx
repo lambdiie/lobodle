@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
-import GuessRow from "@/components/guessrow";
+import SearchBar from "@/components/searchbar";
+import GuessContainer from "@/components/guesscontainer";
 
 export default async function Home() {
   // placeholder for testing
@@ -8,6 +9,9 @@ export default async function Home() {
   const abnoList = JSON.parse(await fs.readFile(filePath, "utf8"));
 
   return (
-    <GuessRow abno={abnoList[0]} />
+    <div className="flex flex-col items-center gap-16">
+      <SearchBar abnoList={abnoList} />
+      <GuessContainer />
+    </div>
   );
 }
